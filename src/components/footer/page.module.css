@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+    bottom: 0;
+    padding: 0 2rem 2rem 2rem;
+    inset: auto 0 0 0;
+}
+
+.socials {
+    display: flex;
+    gap: 1.5rem;
+}
